@@ -2,7 +2,7 @@
 
 [Unity Engine] 汉字 Texture Generator
 
-- To apply some shader effects to `Text Mesh`
+- To apply some shader effects to `Text`
 
 ![](https://github.com/IIzzaya/Hanzi_Texture_Generator/blob/master/README.assets/pic-1.png)
 
